@@ -1,0 +1,9 @@
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\EntityFramework.dll
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\EntityFramework.xml
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
